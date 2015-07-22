@@ -20,6 +20,8 @@
   - [Paste](http://pythonpaste.org/do-it-yourself-framework.html)
 - sqlalchemy
   - [官网文档](http://docs.sqlalchemy.org/en/rel_1_0/)
+  - [sqlalchemy笔记](http://wangye.org/blog/archives/718/)
+  - [sqlalchemy指南](http://gashero.yeax.com/?p=6%23id18)
 - redis
   - [redis学习手册](http://www.cnblogs.com/stephen-liu74/archive/2012/04/16/2370212.html)
   - [redis常用命令](http://slj.me/2011/04/redis-cli-commands/)
@@ -28,6 +30,7 @@
   - [testtools](https://pypi.python.org/pypi/testtools)
   - [OpenStack自动测试框架Tempest](http://www.ibm.com/developerworks/cn/cloud/library/1403_liuyu_openstacktempest/index.html)
 - [stevedore](http://docs.openstack.org/developer/stevedore/)
+
 ## 博客
 
 - OpenStack博客资源
