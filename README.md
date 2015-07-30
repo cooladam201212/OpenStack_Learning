@@ -2,6 +2,11 @@
 
 本文档为学习OpenStack过程中搜集的一些学习资料链接汇总，学习笔记请放至对应文件夹
 
+## **目录**
+
+- [OpenStack基础](#OpenStack基础)
+
+<a name="OpenStack基础"></a>
 ## OpenStack基础
 
 - 消息队列
@@ -24,7 +29,8 @@
   - [sqlalchemy指南](http://gashero.yeax.com/?p=6%23id18)
 - redis
   - [redis学习手册](http://www.cnblogs.com/stephen-liu74/archive/2012/04/16/2370212.html)
-  - [redis常用命令](http://slj.me/2011/04/redis-cli-commands/)
+  - [redis命令手册](http://www.redis.cn/commands.html#generic)
+  - [NoSqlFan](http://blog.nosqlfan.com/html/3537.html)
 - 测试框架
   - [单元测试](http://www.ibm.com/developerworks/cn/linux/l-pyunit/index.html)
   - [testtools](https://pypi.python.org/pypi/testtools)
@@ -42,17 +48,20 @@
   - [虚拟机创建的50个步骤和100个知识点](http://www.cnblogs.com/popsuper1982/p/3927390.html)
   - [中科院-刘冬](http://blog.csdn.net/gaoxingnengjisuan)
   - [Neutron、Ceilometer运行机制](http://panpei.net.cn/tags/OpenStack/)
+  - [臭蛋](http://www.choudan.net/tags.html?#anchorOpenStack)
   - [菩提没有树](http://1.chaoxu.sinaapp.com/archives/category/%E4%BA%91%E8%AE%A1%E7%AE%97/openstack)
 - Python博客资源
   - [吴坤亮](http://wklken.me/archives.html)(网站:[甜品礼物](http://www.itianpin.com/))
   - [小明明](http://www.dongwm.com/blog/archives/)
   - [the51fire](http://www.the5fire.com/)
   - [@Coder_猪之哀伤](http://www.zlovezl.cn/)
+  - [BeginMan](beginman.github.io)
 
 - 趣味Python
   - [CodeWars](http://www.codewars.com/)
   - [Leetcode](https://leetcode.com/)
   - [Python片段](http://code.activestate.com/recipes/langs/#python)
+  - [PythonModuleOfTheWeek](http://pymotw.com/2/)
 
 ## 常用工具
 

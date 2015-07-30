@@ -39,31 +39,31 @@
 console_scripts =
     # 提供 RestfulAPI 调用接口
     ceilometer-api = ceilometer.cli:api
-    
+
     #
     ceilometer-agent-central = ceilometer.cli:agent_central
-    
+
     # 运行在计算节点上,查询实例的性能信息,相关信息,通过 AMQP 消息队列发送数据给 collector
     ceilometer-agent-compute = ceilometer.cli:agent_compute
-    
+
     # 通过 AMQP 消息队列货期其他 OpenStack 服务的事件通知
     ceilometer-agent-notification = ceilometer.cli:agent_notification
-    
+
     #
     ceilometer-send-sample = ceilometer.cli:send_sample
-    
+
     #
     ceilometer-dbsync = ceilometer.cli:storage_dbsync
-    
+
     #
     ceilometer-expirer = ceilometer.cli:storage_expirer
-    
+
     #
     ceilometer-collector = ceilometer.cli:collector_service
-    
+
     # 告警触发评估
     ceilometer-alarm-evaluator = ceilometer.cli:alarm_evaluator
-    
+
     # 告警通知器,执行触发后的动作 sms,log,email...
     ceilometer-alarm-notifier = ceilometer.cli:alarm_notifier
 ```
