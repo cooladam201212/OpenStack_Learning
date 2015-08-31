@@ -10,9 +10,12 @@
 ## OpenStack基础
 
 - 消息队列
-  - [zmq中文文档(官网翻译)](https://github.com/anjuke/zguide-cn
+  - [zmq中文文档(官网翻译,版本不是最新)](https://github.com/anjuke/zguide-cn
 )
+  - [zmq官网文档](http://zguide.zeromq.org/page:all)
   - [zeromq深度探索系列](http://blog.csdn.net/shagoo/article/details/8964009)
+  - [pyzmq手册](https://learning-0mq-with-pyzmq.readthedocs.org/en/latest/pyzmq/basics.html)
+  - [zmq用来怎么玩(zhihu)](http://www.zhihu.com/question/28648575)
   - zeromq安装
      - [官网安装指南](http://zeromq.org/docs:source-git)
      - [依赖包libsodium](https://wiki.tox.im/Installing#Libsodium)
@@ -36,6 +39,8 @@
   - [testtools](https://pypi.python.org/pypi/testtools)
   - [OpenStack自动测试框架Tempest](http://www.ibm.com/developerworks/cn/cloud/library/1403_liuyu_openstacktempest/index.html)
 - [stevedore](http://docs.openstack.org/developer/stevedore/)
+- 自动化运维
+  - [ansible](http://www.178linux.com/doc/ansible/)
 
 ## 博客
 
